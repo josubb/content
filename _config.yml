@@ -1,0 +1,6 @@
+# GitHub Pages Jekyll config
+title: SEO Content
+description: Content hub
+theme: minima
+plugins:
+  - jekyll-sitemap

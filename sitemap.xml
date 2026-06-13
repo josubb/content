@@ -804,4 +804,8 @@
     <loc>https://josubb.github.io/content/en/hosting-type/benchmarks-nvme-cuts-db-p99-up-to-5x-vs-sata-vps.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
+  <url>
+    <loc>https://josubb.github.io/content/en/hosting-type/benchmarks-cloud-cuts-p95-latency-40-vs-cheap-shared.html</loc>
+    <lastmod>2026-06-13</lastmod>
+  </url>
 </urlset>
